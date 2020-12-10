@@ -1,0 +1,1 @@
+ls -la (this will list all files in a current working directory
